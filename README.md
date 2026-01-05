@@ -9,7 +9,7 @@ The highlight of the code created for the Regressor is that, the algorithm direc
 
 We do not need to perform any type of encoding for the catrgorical variables.
 
-Though this may not be the exact code used for XGBoostRegressor, but this can give you a basic understanding of how the algowithm is working internally.
+Though this may not be the exact code used for XGBoostRegressor, but this can give you a basic understanding of how the algorithm is working internally.
 
 
 
